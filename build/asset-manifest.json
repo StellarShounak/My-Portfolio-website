@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63813ae5.chunk.css",
+    "main.js": "/static/js/main.f2cd1ae2.chunk.js",
+    "main.js.map": "/static/js/main.f2cd1ae2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1553b6f5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1553b6f5.js.map",
+    "static/js/2.8fd3f918.chunk.js": "/static/js/2.8fd3f918.chunk.js",
+    "static/js/2.8fd3f918.chunk.js.map": "/static/js/2.8fd3f918.chunk.js.map",
+    "static/js/3.90ed9f51.chunk.js": "/static/js/3.90ed9f51.chunk.js",
+    "static/js/3.90ed9f51.chunk.js.map": "/static/js/3.90ed9f51.chunk.js.map",
+    "static/js/4.592b120a.chunk.js": "/static/js/4.592b120a.chunk.js",
+    "static/js/4.592b120a.chunk.js.map": "/static/js/4.592b120a.chunk.js.map",
+    "static/js/5.a7036220.chunk.js": "/static/js/5.a7036220.chunk.js",
+    "static/js/5.a7036220.chunk.js.map": "/static/js/5.a7036220.chunk.js.map",
+    "static/js/6.334177e6.chunk.js": "/static/js/6.334177e6.chunk.js",
+    "static/js/6.334177e6.chunk.js.map": "/static/js/6.334177e6.chunk.js.map",
+    "static/js/7.c6cc5842.chunk.js": "/static/js/7.c6cc5842.chunk.js",
+    "static/js/7.c6cc5842.chunk.js.map": "/static/js/7.c6cc5842.chunk.js.map",
+    "static/js/8.72c061b6.chunk.js": "/static/js/8.72c061b6.chunk.js",
+    "static/js/8.72c061b6.chunk.js.map": "/static/js/8.72c061b6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.63813ae5.chunk.css.map": "/static/css/main.63813ae5.chunk.css.map",
+    "static/js/2.8fd3f918.chunk.js.LICENSE.txt": "/static/js/2.8fd3f918.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/GeneralSans-VariableItalic.e4ae865b.woff",
+    "static/media/developer-dark.3f07bd13.svg": "/static/media/developer-dark.3f07bd13.svg",
+    "static/media/developer.ef097afb.svg": "/static/media/developer.ef097afb.svg",
+    "static/media/mobile-project-11.png": "/static/media/mobile-project-11.113bece5.png",
+    "static/media/mobile-project-22.png": "/static/media/mobile-project-22.fdc4dae0.png",
+    "static/media/profile1.9ea3248d.png": "/static/media/profile1.9ea3248d.png",
+    "static/media/ui-project-11.png": "/static/media/ui-project-11.bbe95170.png",
+    "static/media/ui-project-22.png": "/static/media/ui-project-22.39f75abd.png",
+    "static/media/web-project-11.png": "/static/media/web-project-11.b5eb595d.png",
+    "static/media/web-project-22.png": "/static/media/web-project-22.cd199b46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1553b6f5.js",
+    "static/js/2.8fd3f918.chunk.js",
+    "static/css/main.63813ae5.chunk.css",
+    "static/js/main.f2cd1ae2.chunk.js"
+  ]
+}
